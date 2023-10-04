@@ -1,12 +1,15 @@
-# Effort Estimation with Jupyter Lab
+# Effort Estimation with Jupyter Lab/Notebook
 
 - install Python 3.11 (e.g. use [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html))
 
 - install [Juypter Lab](https://jupyter.org/) and libraries
 
-    $ pip install -r requirements.txt
+```shell
+    pip install -r requirements.txt
+```
 
 - run Jupyter Lab
 
-    $ jupyter-lab Velocity.ipynb
-
+```shell
+    jupyter-lab Velocity.ipynb
+```
